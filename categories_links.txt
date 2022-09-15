@@ -1,0 +1,328 @@
+{'link': 'https://music.amazon.com/unlimited?ref_=nav_em__dm_hf_0_2_2_2', 'text': 'Amazon Music Unlimited'}
+{'link': 'https://www.amazon.com/music/free?ref_=nav_em__dm_nav_nw_0_2_2_3', 'text': 'Free Streaming Music'}
+{'link': 'https://www.amazon.com/music/lp/podcasts?ref_=nav_em__dm_nav_rh_0_2_2_4', 'text': 'Podcasts'}
+{'link': 'https://www.amazon.com/music/player?ref_=nav_em_dm_webplayer_0_2_2_5', 'text': 'Play Music'}
+{'link': 'https://music.amazon.com/?ref_=nav_em_dm_webplayer_0_2_2_6', 'text': 'Open Web Player'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=23653176011&ref_=nav_em__dm_store_ms_0_2_2_7', 'text': 'Download the app'}
+{'link': 'https://www.amazon.com/dp/B07NQKJVKR?ref_=nav_em__k_ods_eink_kke_0_2_3_2', 'text': 'Kindle Kids'}
+{'link': 'https://www.amazon.com/dp/B07978J597?ref_=nav_em__k_ods_eink_jr_0_2_3_3', 'text': 'Kindle'}
+{'link': 'https://www.amazon.com/dp/B08KTZ8249?ref_=nav_em__k_ods_eink_sd_me_0_2_3_4', 'text': 'Kindle Paperwhite'}
+{'link': 'https://www.amazon.com/dp/B07F7TLZF4?ref_=nav_em__k_ods_eink_wy_0_2_3_5', 'text': 'Kindle Oasis'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=370783011&ref_=nav_em__ods_eink_acc_0_2_3_6', 'text': 'Accessories'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=6669702011&ref_=nav_em__ods_eink_catp_0_2_3_7', 'text': 'See all Kindle E-Readers'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=1286228011&ref_=nav_em__ods_eink_con_books_0_2_3_9', 'text': 'Kindle Books'}
+{'link': 'https://www.amazon.com/gp/kindle/ku/sign-up/ui/rw/about?ref_=nav_em__ods_eink_con_ku_0_2_3_10', 'text': 'Kindle Unlimited'}
+{'link': 'https://www.amazon.com/kindle-dbs/fd/prime-pr?ref_=nav_em__ods_eink_con_pr_0_2_3_11', 'text': 'Prime Reading'}
+{'link': 'https://www.amazon.com/kindle-vella?ref_=nav_em__vla_dt_gw_hm_keb_0_2_3_12', 'text': 'Kindle Vella'}
+{'link': 'https://www.amazon.com/kindle-dbs/fd/kcp?ref_=nav_em__ods_eink_con_karl_0_2_3_17_0_2_3_14', 'text': 'Free Kindle Reading Apps'}
+{'link': 'https://read.amazon.com/?ref_=nav_em__ods_eink_con_kcr_0_2_3_15', 'text': 'Kindle Cloud Reader'}
+{'link': 'https://www.amazon.com/gp/digital/fiona/manage?ref_=nav_em__ods_eink_con_myk_0_2_3_16', 'text': 'Manage Your Content and Devices'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=2350149011&ref_=nav_em__adr_app_0_2_4_2', 'text': 'All Apps and Games '}
+{'link': 'https://www.amazon.com/gp/browse.html?node=9209902011&ref_=nav_em__adr_gam_0_2_4_3', 'text': 'Games'}
+{'link': 'https://www.amazon.com/coins?ref_=nav_em__adr_coins_0_2_4_4', 'text': 'Amazon Coins'}
+{'link': 'https://www.amazon.com/gp/mas/get/android?ref_=nav_em__adr_dl_0_2_4_5', 'text': 'Download Amazon Appstore'}
+{'link': 'https://www.amazon.com/gp/feature.html?docId=1000645111&ref_=nav_em__adr_amz_0_2_4_6', 'text': 'Amazon Apps'}
+{'link': 'https://www.amazon.com/gp/mas/your-account/myapps?ref_=nav_em__adr_yad_0_2_4_7', 'text': 'Your Apps and Subscriptions'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A281407&ref_=nav_em__nav_desktop_sa_intl_accessories_and_supplies_0_2_5_2', 'text': 'Accessories & Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A502394&ref_=nav_em__nav_desktop_sa_intl_camera_and_photo_0_2_5_3', 'text': 'Camera & Photo'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A3248684011&ref_=nav_em__nav_desktop_sa_intl_car_and_vehicle_electronics_0_2_5_4', 'text': 'Car & Vehicle Electronics'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A2811119011&ref_=nav_em__nav_desktop_sa_intl_cell_phones_and_accessories_0_2_5_5', 'text': 'Cell Phones & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A541966&ref_=nav_em__nav_desktop_sa_intl_computers_and_accessories_0_2_5_6', 'text': 'Computers & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A172526&ref_=nav_em__nav_desktop_sa_intl_gps_and_navigation_0_2_5_7', 'text': 'GPS & Navigation'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A172541&ref_=nav_em__nav_desktop_sa_intl_headphones_0_2_5_8', 'text': 'Headphones'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A667846011&ref_=nav_em__nav_desktop_sa_intl_home_audio_0_2_5_9', 'text': 'Home Audio'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A172574&ref_=nav_em__nav_desktop_sa_intl_office_electronics_0_2_5_10', 'text': 'Office Electronics'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A172623&ref_=nav_em__nav_desktop_sa_intl_portable_audio_and_video_0_2_5_11', 'text': 'Portable Audio & Video'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A524136&ref_=nav_em__nav_desktop_sa_intl_security_and_surveillance_0_2_5_12', 'text': 'Security & Surveillance'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A16285901&ref_=nav_em__nav_desktop_sa_intl_service_plans_0_2_5_13', 'text': 'Service Plans'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A1266092011&ref_=nav_em__nav_desktop_sa_intl_television_and_video_0_2_5_14', 'text': 'Television & Video'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A7926841011&ref_=nav_em__nav_desktop_sa_intl_video_game_consoles_and_accessories_0_2_5_15', 'text': 'Video Game Consoles & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A300334&ref_=nav_em__nav_desktop_sa_intl_video_projectors_0_2_5_16', 'text': 'Video Projectors'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A10048700011&ref_=nav_em__nav_desktop_sa_intl_wearable_technology_0_2_5_17', 'text': 'Wearable Technology'}
+{'link': 'https://www.amazon.com/s?bbn=16225009011&rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cn%3A2642125011&ref_=nav_em__nav_desktop_sa_intl_ebook_readers_and_accessories_0_2_5_18', 'text': 'eBook Readers & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A172456&ref_=nav_em__nav_desktop_sa_intl_computer_accessories_and_peripherals_0_2_6_2', 'text': 'Computer Accessories & Peripherals'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A193870011&ref_=nav_em__nav_desktop_sa_intl_computer_components_0_2_6_3', 'text': 'Computer Components'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A13896617011&ref_=nav_em__nav_desktop_sa_intl_computers_tablets_0_2_6_4', 'text': 'Computers & Tablets'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A1292110011&ref_=nav_em__nav_desktop_sa_intl_data_storage_0_2_6_5', 'text': 'Data Storage'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A3012292011&ref_=nav_em__nav_desktop_sa_intl_external_components_0_2_6_6', 'text': 'External Components'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A3011391011&ref_=nav_em__nav_desktop_sa_intl_laptop_accessories_0_2_6_7', 'text': 'Laptop Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A1292115011&ref_=nav_em__nav_desktop_sa_intl_monitors_0_2_6_8', 'text': 'Monitors'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A172504&ref_=nav_em__nav_desktop_sa_intl_networking_products_0_2_6_9', 'text': 'Networking Products'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A17854127011&ref_=nav_em__nav_desktop_sa_intl_power_strips_and_surge_protectors_0_2_6_10', 'text': 'Power Strips & Surge Protectors'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A172635&ref_=nav_em__nav_desktop_sa_intl_printers_0_2_6_11', 'text': 'Printers'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A172584&ref_=nav_em__nav_desktop_sa_intl_scanners_0_2_6_12', 'text': 'Scanners'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A11036071&ref_=nav_em__nav_desktop_sa_intl_servers_0_2_6_13', 'text': 'Servers'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A2348628011&ref_=nav_em__nav_desktop_sa_intl_tablet_accessories_0_2_6_14', 'text': 'Tablet Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A15524379011&ref_=nav_em__nav_desktop_sa_intl_tablet_replacement_parts_0_2_6_15', 'text': 'Tablet Replacement Parts'}
+{'link': 'https://www.amazon.com/s?bbn=16225007011&rh=i%3Aspecialty-aps%2Cn%3A16225007011%2Cn%3A16285851&ref_=nav_em__nav_desktop_sa_intl_warranties_and_services_0_2_6_16', 'text': 'Warranties & Services'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=6563140011&ref_=nav_em_amazon_smart_home_0_2_7_2', 'text': 'Amazon Smart Home'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21217035011&ref_=nav_em_sh_lighting_0_2_7_3', 'text': 'Smart Home Lighting'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21216824011&ref_=nav_em_sh_locks-entry_0_2_7_4', 'text': 'Smart Locks and Entry'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21217033011&ref_=nav_em_sh_security-cameras-systems_0_2_7_5', 'text': 'Security Cameras and Systems'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21217037011&ref_=nav_em_sh_plugs-outlets_0_2_7_6', 'text': 'Plugs and Outlets'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=19185106011&ref_=nav_em_sh_new-devices_0_2_7_7', 'text': 'New Smart Devices'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21217041011&ref_=nav_em_sh_heating-cooling_0_2_7_8', 'text': 'Heating and Cooling'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21217048011&ref_=nav_em_sh_detectors-sensors_0_2_7_9', 'text': 'Detectors and Sensors'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21216826011&ref_=nav_em_sh_home-entertainment_0_2_7_10', 'text': 'Home Entertainment'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21221447011&ref_=nav_em_sh_pet_0_2_7_11', 'text': 'Pet'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21216812011&ref_=nav_em_sh_voice-assistants-hubs_0_2_7_12', 'text': 'Voice Assistants and Hubs'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21217039011&ref_=nav_em_sh_kitchen_0_2_7_13', 'text': 'Kitchen'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21217038011&ref_=nav_em_sh_vacuums-mops_0_2_7_14', 'text': 'Vacuums and Mops'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21217056011&ref_=nav_em_sh_lawn-garden_0_2_7_15', 'text': 'Lawn and Garden'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21217028011&ref_=nav_em_sh_wifi-networking_0_2_7_16', 'text': 'WIFI and Networking'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=21217060011&ref_=nav_em_sh_other_0_2_7_17', 'text': 'Other Solutions'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A2747968011&ref_=nav_em__nav_desktop_sa_intl_painting_drawing_supplies_0_2_8_2', 'text': 'Painting, Drawing & Art Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12896081&ref_=nav_em__nav_desktop_sa_intl__beading_jewelry_making_0_2_8_3', 'text': 'Beading & Jewelry Making'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A378733011&ref_=nav_em__nav_desktop_sa_intl_crafting_0_2_8_4', 'text': 'Crafting'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12899121&ref_=nav_em__nav_desktop_sa_intl_fabric_0_2_8_5', 'text': 'Fabric'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12896841&ref_=nav_em__nav_desktop_sa_intl_fabric_decorating_0_2_8_6', 'text': 'Fabric Decorating'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12897221&ref_=nav_em__nav_desktop_sa_intl_knitting_crochet_0_2_8_7', 'text': 'Knitting & Crochet'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A2237329011&ref_=nav_em__nav_desktop_sa_intl_needlework_0_2_8_8', 'text': 'Needlework'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A2237594011&ref_=nav_em__nav_desktop_sa_intl_organization_storage_transport_0_2_8_9', 'text': 'Organization, Storage & Transport'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12898451&ref_=nav_em__nav_desktop_sa_intl_printmaking_0_2_8_10', 'text': 'Printmaking'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12898821&ref_=nav_em__nav_desktop_sa_intl_scrapbookig_stamping_0_2_8_11', 'text': 'Scrapbooking & Stamping'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A12899091&ref_=nav_em__nav_desktop_sa_intl_sewing_0_2_8_12', 'text': 'Sewing'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A723469011&ref_=nav_em__nav_desktop_sa_intl_party_decorations_supplies_0_2_8_13', 'text': 'Party Decorations & Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=4954955011&rh=i%3Aspecialty-aps%2Cn%3A4954955011%2Cn%3A%212617942011%2Cn%3A723452011&ref_=nav_em__nav_desktop_sa_intl_gift_wrapping_supplies_0_2_8_14', 'text': 'Gift Wrapping Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A15718271&ref_=nav_em__nav_desktop_sa_intl_car_care_0_2_9_2', 'text': 'Car Care'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A2230642011&ref_=nav_em__nav_desktop_sa_intl_car_electronics_accessories_0_2_9_3', 'text': 'Car Electronics & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A15857511&ref_=nav_em__nav_desktop_sa_intl_exterior_accessories__0_2_9_4', 'text': 'Exterior Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A15857501&ref_=nav_em__nav_desktop_sa_intl_interior_accessories_0_2_9_5', 'text': 'Interior Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A15736321&ref_=nav_em__nav_desktop_sa_intl_lights_lighting_accessories_0_2_9_6', 'text': 'Lights & Lighting Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A346333011&ref_=nav_em__nav_desktop_sa_intl_motorcycle_powersports_0_2_9_7', 'text': 'Motorcycle & Powersports'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A15718791&ref_=nav_em__nav_desktop_sa_intl_oils_fluid_0_2_9_8', 'text': 'Oils & Fluids'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A13591416011&ref_=nav_em__nav_desktop_sa_intl_paint_paint_supplies_0_2_9_9', 'text': 'Paint & Paint Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A15710351&ref_=nav_em__nav_desktop_sa_intl_performance_parts_accessories_0_2_9_10', 'text': 'Performance Parts & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A15719731&ref_=nav_em__nav_desktop_sa_intl_replacement_parts_0_2_9_11', 'text': 'Replacement Parts'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A2258019011&ref_=nav_em__nav_desktop_sa_intl_rv_parts_accessories_0_2_9_12', 'text': 'RV Parts & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A15706571&ref_=nav_em__nav_desktop_sa_intl_tires_wheels_0_2_9_13', 'text': 'Tires & Wheels'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A15706941&ref_=nav_em__nav_desktop_sa_intl_tools_equipment_0_2_9_14', 'text': 'Tools & Equipment'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A2204830011&ref_=nav_em__nav_desktop_sa_intl_automotive_enthusiast_merchandise_0_2_9_15', 'text': 'Automotive Enthusiast Merchandise'}
+{'link': 'https://www.amazon.com/s?bbn=2562090011&rh=i%3Aspecialty-aps%2Cn%3A2562090011%2Cn%3A%2115690151%2Cn%3A15682003011&ref_=nav_em__nav_desktop_sa_intl_heavyduty_commercial_0_2_9_16', 'text': 'Heavy Duty & Commercial Vehicle Equipment'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A239225011&ref_=nav_em__nav_desktop_sa_intl_activity_entertainment_0_2_10_2', 'text': 'Activity & Entertainment'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A7147444011&ref_=nav_em__nav_desktop_sa_intl_apparel_accessories_0_2_10_3', 'text': 'Apparel & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A196601011&ref_=nav_em__nav_desktop_sa_intl_baby_toddler_toys_0_2_10_4', 'text': 'Baby & Toddler Toys'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A17720255011&ref_=nav_em__nav_desktop_sa_intl_baby_care_0_2_10_5', 'text': 'Baby Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A405369011&ref_=nav_em__nav_desktop_sa_intl_baby_stationary_0_2_10_6', 'text': 'Baby Stationery'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A166835011&ref_=nav_em__nav_desktop_sa_intl_car_seats_accessories_0_2_10_7', 'text': 'Car Seats & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A166764011&ref_=nav_em__nav_desktop_sa_intl_diapering_0_2_10_8', 'text': 'Diapering'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A166777011&ref_=nav_em__nav_desktop_sa_intl_feeding_0_2_10_9', 'text': 'Feeding'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A239226011&ref_=nav_em__nav_desktop_sa_intl_gifts_0_2_10_10', 'text': 'Gifts'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A695338011&ref_=nav_em__nav_desktop_sa_intl_nursery_0_2_10_11', 'text': 'Nursery'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A166887011&ref_=nav_em__nav_desktop_sa_intl_potty_training_0_2_10_12', 'text': 'Potty Training'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A166804011&ref_=nav_em__nav_desktop_sa_intl_pregnancy_and_maternity_0_2_10_13', 'text': 'Pregnancy & Maternity'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A166863011&ref_=nav_em__nav_desktop_sa_intl_safety_0_2_10_14', 'text': 'Safety'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A8446318011&ref_=nav_em__nav_desktop_sa_intl_strollers_and_accessories_0_2_10_15', 'text': 'Strollers & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225005011&rh=i%3Aspecialty-aps%2Cn%3A%2116225005011%2Cn%3A17726796011&ref_=nav_em__nav_desktop_sa_intl_travel_gear_0_2_10_16', 'text': 'Travel Gear'}
+{'link': 'https://www.amazon.com/s?bbn=16225006011&rh=i%3Aspecialty-aps%2Cn%3A%2116225006011%2Cn%3A11058281&ref_=nav_em__nav_desktop_sa_intl_makeup_0_2_11_2', 'text': 'Makeup'}
+{'link': 'https://www.amazon.com/s?bbn=16225006011&rh=i%3Aspecialty-aps%2Cn%3A%2116225006011%2Cn%3A11060451&ref_=nav_em__nav_desktop_sa_intl_skin_care_0_2_11_3', 'text': 'Skin Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225006011&rh=i%3Aspecialty-aps%2Cn%3A%2116225006011%2Cn%3A11057241&ref_=nav_em__nav_desktop_sa_intl__0_2_11_4', 'text': 'Hair Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225006011&rh=i%3Aspecialty-aps%2Cn%3A%2116225006011%2Cn%3A11056591&ref_=nav_em__nav_desktop_sa_intl_fragrance_0_2_11_5', 'text': 'Fragrance'}
+{'link': 'https://www.amazon.com/s?bbn=16225006011&rh=i%3Aspecialty-aps%2Cn%3A%2116225006011%2Cn%3A17242866011&ref_=nav_em__nav_desktop_sa_intl_foot_hand_and_nail_care_0_2_11_6', 'text': 'Foot, Hand & Nail Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225006011&rh=i%3Aspecialty-aps%2Cn%3A%2116225006011%2Cn%3A11062741&ref_=nav_em__nav_desktop_sa_intl_tools_and_accessories_0_2_11_7', 'text': 'Tools & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225006011&rh=i%3Aspecialty-aps%2Cn%3A%2116225006011%2Cn%3A3778591&ref_=nav_em__nav_desktop_sa_intl_shave_and_hair_removal_0_2_11_8', 'text': 'Shave & Hair Removal'}
+{'link': 'https://www.amazon.com/s?bbn=16225006011&rh=i%3Aspecialty-aps%2Cn%3A%2116225006011%2Cn%3A3777891&ref_=nav_em__nav_desktop_sa_intl_personal_care_0_2_11_9', 'text': 'Personal Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225006011&rh=i%3Aspecialty-aps%2Cn%3A%2116225006011%2Cn%3A10079992011&ref_=nav_em__nav_desktop_sa_intl_oral_care_0_2_11_10', 'text': 'Oral Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225018011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225018011%2Cn%3A1040660&ref_=nav_em__nav_desktop_sa_intl_clothing_0_2_12_2', 'text': 'Clothing'}
+{'link': 'https://www.amazon.com/s?bbn=16225018011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225018011%2Cn%3A679337011&ref_=nav_em__nav_desktop_sa_intl_shoes_0_2_12_3', 'text': 'Shoes'}
+{'link': 'https://www.amazon.com/s?bbn=16225018011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225018011%2Cn%3A7192394011&ref_=nav_em__nav_desktop_sa_intl_jewelry_0_2_12_4', 'text': 'Jewelry'}
+{'link': 'https://www.amazon.com/s?bbn=16225018011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225018011%2Cn%3A6358543011&ref_=nav_em__nav_desktop_sa_intl_watches_0_2_12_5', 'text': 'Watches'}
+{'link': 'https://www.amazon.com/s?bbn=16225018011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225018011%2Cn%3A15743631&ref_=nav_em__nav_desktop_sa_intl_handbags_0_2_12_6', 'text': 'Handbags'}
+{'link': 'https://www.amazon.com/s?bbn=16225018011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225018011%2Cn%3A2474936011&ref_=nav_em__nav_desktop_sa_intl_accessories_0_2_12_7', 'text': 'Accessories'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225019011&ref_=nav_em__nav_desktop_sa_intl_mens_fashion_0_2_12_8', 'text': "Men's Fashion"}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225020011&ref_=nav_em__nav_desktop_sa_intl_girls_fashion_0_2_12_9', 'text': "Girls' Fashion"}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225019011&ref_=nav_em__nav_desktop_sa_intl_boys_fashion_0_2_12_10', 'text': "Boys' Fashion"}
+{'link': 'https://www.amazon.com/s?bbn=16225019011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225019011%2Cn%3A1040658&ref_=nav_em__nav_desktop_sa_intl_clothing_0_2_13_2', 'text': 'Clothing'}
+{'link': 'https://www.amazon.com/s?bbn=16225019011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225019011%2Cn%3A679255011&ref_=nav_em__nav_desktop_sa_intl_shoes_0_2_13_3', 'text': 'Shoes'}
+{'link': 'https://www.amazon.com/s?bbn=16225019011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225019011%2Cn%3A6358539011&ref_=nav_em__nav_desktop_sa_intl_watches_0_2_13_4', 'text': 'Watches'}
+{'link': 'https://www.amazon.com/s?bbn=16225019011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225019011%2Cn%3A2474937011&ref_=nav_em__nav_desktop_sa_intl_accessories_0_2_13_5', 'text': 'Accessories'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225018011&ref_=nav_em__nav_desktop_sa_intl_womens_fashion_0_2_13_6', 'text': "Women's Fashion"}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225020011&ref_=nav_em__nav_desktop_sa_intl_girls_fashion_0_2_13_7', 'text': "Girls' Fashion"}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225021011&ref_=nav_em__nav_desktop_sa_intl_boys_fashion_0_2_13_8', 'text': "Boys' Fashion"}
+{'link': 'https://www.amazon.com/s?bbn=16225020011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225020011%2Cn%3A1040664&ref_=nav_em__nav_desktop_sa_intl_clothing_0_2_14_2', 'text': 'Clothing'}
+{'link': 'https://www.amazon.com/s?bbn=16225020011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225020011%2Cn%3A679217011&ref_=nav_em__nav_desktop_sa_intl_shoes_0_2_14_3', 'text': 'Shoes'}
+{'link': 'https://www.amazon.com/s?bbn=16225020011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225020011%2Cn%3A3880961&ref_=nav_em__nav_desktop_sa_intl_jewelry_0_2_14_4', 'text': 'Jewelry'}
+{'link': 'https://www.amazon.com/s?bbn=16225020011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225020011%2Cn%3A6358547011&ref_=nav_em__nav_desktop_sa_intl_watches_0_2_14_5', 'text': 'Watches'}
+{'link': 'https://www.amazon.com/s?bbn=16225020011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225020011%2Cn%3A2474938011&ref_=nav_em__nav_desktop_sa_intl_accessories_0_2_14_6', 'text': 'Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225020011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A7147442011%2Cn%3A7581687011&ref_=nav_em__nav_desktop_sa_intl_school_uniforms_0_2_14_7', 'text': 'School Uniforms'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225018011&ref_=nav_em__nav_desktop_sa_intl_womens_fashion_0_2_14_8', 'text': "Women's Fashion"}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225019011&ref_=nav_em__nav_desktop_sa_intl_mens_fashion_0_2_14_9', 'text': "Men's Fashion"}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225021011&ref_=nav_em__nav_desktop_sa_intl_boys_fashion_0_2_14_10', 'text': "Boys' Fashion"}
+{'link': 'https://www.amazon.com/s?bbn=16225021011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225021011%2Cn%3A1040666&ref_=nav_em__nav_desktop_sa_intl_clothing_0_2_15_2', 'text': 'Clothing'}
+{'link': 'https://www.amazon.com/s?bbn=16225021011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225021011%2Cn%3A679182011&ref_=nav_em__nav_desktop_sa_intl_shoes_0_2_15_3', 'text': 'Shoes'}
+{'link': 'https://www.amazon.com/s?bbn=16225021011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225021011%2Cn%3A3880611&ref_=nav_em__nav_desktop_sa_intl_jewelry_0_2_15_4', 'text': 'Jewelry'}
+{'link': 'https://www.amazon.com/s?bbn=16225021011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225021011%2Cn%3A6358551011&ref_=nav_em__nav_desktop_sa_intl_watches_0_2_15_5', 'text': 'Watches'}
+{'link': 'https://www.amazon.com/s?bbn=16225021011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A16225021011%2Cn%3A2474939011&ref_=nav_em__nav_desktop_sa_intl_accessories_0_2_15_6', 'text': 'Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=7581691011&rh=i%3Aspecialty-aps%2Cn%3A7141123011%2Cn%3A7147443011%2Cn%3A7581691011&ref_=nav_em__nav_desktop_sa_intl_school_uniforms_0_2_15_7', 'text': 'School Uniforms'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225018011&ref_=nav_em__nav_desktop_sa_intl_womens_fashion_0_2_15_8', 'text': "Women's Fashion"}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225019011&ref_=nav_em__nav_desktop_sa_intl_mens_fashion_0_2_15_9', 'text': "Men's Fashion"}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225020011&ref_=nav_em__nav_desktop_sa_intl_girls_fashion_0_2_15_10', 'text': "Girls' Fashion"}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A10787321&ref_=nav_em__nav_desktop_sa_intl_baby_and_child_care_0_2_16_2', 'text': 'Baby & Child Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A3760941&ref_=nav_em__nav_desktop_sa_intl_health_care_0_2_16_3', 'text': 'Health Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A15342811&ref_=nav_em__nav_desktop_sa_intl_household_supplies_0_2_16_4', 'text': 'Household Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A3775161&ref_=nav_em__nav_desktop_sa_intl_medical_supplies_and_equipment_0_2_16_5', 'text': 'Medical Supplies & Equipment'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A10079992011&ref_=nav_em__nav_desktop_sa_intl_oral_care_0_2_16_6', 'text': 'Oral Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A3777891&ref_=nav_em__nav_desktop_sa_intl_personal_care_0_2_16_7', 'text': 'Personal Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A3777371&ref_=nav_em__nav_desktop_sa_intl_sexual_wellness_0_2_16_8', 'text': 'Sexual Wellness'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A6973663011&ref_=nav_em__nav_desktop_sa_intl_sports_nutrition_0_2_16_9', 'text': 'Sports Nutrition'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A723418011&ref_=nav_em__nav_desktop_sa_intl_stationery_and_gift_wrapping_supplies_0_2_16_10', 'text': 'Stationery & Gift Wrapping Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A10079994011&ref_=nav_em__nav_desktop_sa_intl_vision_care_0_2_16_11', 'text': 'Vision Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A3764441&ref_=nav_em__nav_desktop_sa_intl_vitamins_and_dietary_supplements_0_2_16_12', 'text': 'Vitamins & Dietary Supplements'}
+{'link': 'https://www.amazon.com/s?bbn=16225010011&rh=i%3Aspecialty-aps%2Cn%3A%2116225010011%2Cn%3A10079996011&ref_=nav_em__nav_desktop_sa_intl_wellness_and_relaxation_0_2_16_13', 'text': 'Wellness & Relaxation'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A3206325011&ref_=nav_em__nav_desktop_sa_intl_kids_home_store_0_2_17_2', 'text': "Kids' Home Store"}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A284507&ref_=nav_em__nav_desktop_sa_intl_kitchen_and_dining_0_2_17_3', 'text': 'Kitchen & Dining'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A1063252&ref_=nav_em__nav_desktop_sa_intl_bedding_0_2_17_4', 'text': 'Bedding'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A1063236&ref_=nav_em__nav_desktop_sa_intl_bath_0_2_17_5', 'text': 'Bath'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A1063306&ref_=nav_em__nav_desktop_sa_intl_furniture_0_2_17_6', 'text': 'Furniture'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A1063278&ref_=nav_em__nav_desktop_sa_intl_home_decor_0_2_17_7', 'text': 'Home Décor'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A3736081&ref_=nav_em__nav_desktop_sa_intl_wall_art_0_2_17_8', 'text': 'Wall Art'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A16510975011&ref_=nav_em__nav_desktop_sa_intl_lighting_and_ceiling_fans_0_2_17_9', 'text': 'Lighting & Ceiling Fans'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A13679381&ref_=nav_em__nav_desktop_sa_intl_seasonal_decor_0_2_17_10', 'text': 'Seasonal Décor'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A901590&ref_=nav_em__nav_desktop_sa_intl_event_and_party_supplies_0_2_17_11', 'text': 'Event & Party Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A3206324011&ref_=nav_em__nav_desktop_sa_intl_heating_cooling_and_air_quality_0_2_17_12', 'text': 'Heating, Cooling & Air Quality'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A510240&ref_=nav_em__nav_desktop_sa_intl_heating_cooling_and_air_quality_0_2_17_13', 'text': 'Irons & Steamers'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A510106&ref_=nav_em__nav_desktop_sa_intl_vacuums_and_floor_care_0_2_17_14', 'text': 'Vacuums & Floor Care'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A3610841&ref_=nav_em__nav_desktop_sa_intl_storage_and_organization_0_2_17_15', 'text': 'Storage & Organization'}
+{'link': 'https://www.amazon.com/s?bbn=16225011011&rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A10802561&ref_=nav_em__nav_desktop_sa_intl_cleaning_supplies_0_2_17_16', 'text': 'Cleaning Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A256167011&ref_=nav_em__nav_desktop_sa_intl_abrasive_and_finishing_products_0_2_18_2', 'text': 'Abrasive & Finishing Products'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A6066126011&ref_=nav_em__nav_desktop_sa_intl_additive_manufacturing_products_0_2_18_3', 'text': 'Additive Manufacturing Products'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A10773802011&ref_=nav_em__nav_desktop_sa_intl_commercial_door_products_0_2_18_4', 'text': 'Commercial Door Products'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A383598011&ref_=nav_em__nav_desktop_sa_intl_cutting_tools_0_2_18_5', 'text': 'Cutting Tools'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A383599011&ref_=nav_em__nav_desktop_sa_intl_fasteners_0_2_18_6', 'text': 'Fasteners'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A3061625011&ref_=nav_em__nav_desktop_sa_intl_filtration_0_2_18_7', 'text': 'Filtration'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A6054382011&ref_=nav_em__nav_desktop_sa_intl_food_service_equipment_and_supplies_0_2_18_8', 'text': 'Food Service Equipment & Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A3021479011&ref_=nav_em__nav_desktop_sa_intl_hydraulics_pneumatics_and_plumbing_0_2_18_9', 'text': 'Hydraulics, Pneumatics & Plumbing'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A306506011&ref_=nav_em__nav_desktop_sa_intl_industrial_electrical_0_2_18_10', 'text': 'Industrial Electrical'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A16412251&ref_=nav_em__nav_desktop_sa_intl_industrial_hardware_0_2_18_11', 'text': 'Industrial Hardware'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A3021459011&ref_=nav_em__nav_desktop_sa_intl_industrial_power_and_hand_tools_0_2_18_12', 'text': 'Industrial Power & Hand Tools'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A317971011&ref_=nav_em__nav_desktop_sa_intl_janitorial_and_sanitation_supplies_0_2_18_13', 'text': 'Janitorial & Sanitation Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A317970011&ref_=nav_em__nav_desktop_sa_intl_lab_and_scientific_products_0_2_18_14', 'text': 'Lab & Scientific Products'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A256346011&ref_=nav_em__nav_desktop_sa_intl_material_handling_products_0_2_18_15', 'text': 'Material Handling Products'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A318135011&ref_=nav_em__nav_desktop_sa_intl_occupational_health_and_safety_products_0_2_18_16', 'text': 'Occupational Health & Safety Products'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A8553197011&ref_=nav_em__nav_desktop_sa_intl_packaging_and_shipping_supplies_0_2_18_17', 'text': 'Packaging & Shipping Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A16310181&ref_=nav_em__nav_desktop_sa_intl_power_transmission_products_0_2_18_18', 'text': 'Power Transmission Products'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A8297371011&ref_=nav_em__nav_desktop_sa_intl_professional_dental_supplies_0_2_18_19', 'text': 'Professional Dental Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A8297370011&ref_=nav_em__nav_desktop_sa_intl_professional_medical_supplies_0_2_18_20', 'text': 'Professional Medical Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A16310191&ref_=nav_em__nav_desktop_sa_intl_raw_materials_0_2_18_21', 'text': 'Raw Materials'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A8615538011&ref_=nav_em__nav_desktop_sa_intl_retail_store_fixtures_and_equipment_0_2_18_22', 'text': 'Retail Store Fixtures & Equipment'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A8498884011&ref_=nav_em__nav_desktop_sa_intl_robotics_0_2_18_23', 'text': 'Robotics'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A393459011&ref_=nav_em__nav_desktop_sa_intl_science_education_0_2_18_24', 'text': 'Science Education'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A256225011&ref_=nav_em__nav_desktop_sa_intl_tapes_adhesives_and_sealants_0_2_18_25', 'text': 'Tapes, Adhesives & Sealants'}
+{'link': 'https://www.amazon.com/s?bbn=16225012011&rh=i%3Aspecialty-aps%2Cn%3A%2116225012011%2Cn%3A256409011&ref_=nav_em__nav_desktop_sa_intl_test_measure_and_inspect_0_2_18_26', 'text': 'Test, Measure & Inspect'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A15743251%2Cn%3A15743261&ref_=nav_em__nav_desktop_sa_intl_carry_ons_0_2_19_2', 'text': 'Carry-ons'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A360832011&ref_=nav_em__nav_desktop_sa_intl_backpacks_0_2_19_3', 'text': 'Backpacks'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A15743251%2Cn%3A15743271&ref_=nav_em__nav_desktop_sa_intl_garment_bags_0_2_19_4', 'text': 'Garment bags'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A15743241&ref_=nav_em__nav_desktop_sa_intl_travel_totes_0_2_19_5', 'text': 'Travel Totes'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A15743251%2Cn%3A15743291&ref_=nav_em__nav_desktop_sa_intl_luggage_sets_0_2_19_6', 'text': 'Luggage Sets'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A9971584011&ref_=nav_em__nav_desktop_sa_intl_laptop_bags_0_2_19_7', 'text': 'Laptop Bags'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A15743251%2Cn%3A2477388011&ref_=nav_em__nav_desktop_sa_intl_suitcases_0_2_19_8', 'text': 'Suitcases'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A15743251%2Cn%3A2477386011&ref_=nav_em__nav_desktop_sa_intl_kids_luggage_0_2_19_9', 'text': 'Kids Luggage'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A15743231&ref_=nav_em__nav_desktop_sa_intl_messenger_bags_0_2_19_10', 'text': 'Messenger Bags'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A15744111&ref_=nav_em__nav_desktop_sa_intl_umbrellas_0_2_19_11', 'text': 'Umbrellas'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A15743211&ref_=nav_em__nav_desktop_sa_intl_duffles_0_2_19_12', 'text': 'Duffles'}
+{'link': 'https://www.amazon.com/s?bbn=16225017011&rh=i%3Afashion-luggage%2Cn%3A7141123011%2Cn%3A16225017011%2Cn%3A15743971&ref_=nav_em__nav_desktop_sa_intl_travel_accessories_0_2_19_13', 'text': 'Travel Accessories'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=2649512011&ref_=nav_em__nav_desktop_sa_intl_movies_0_2_20_2', 'text': 'Movies'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=2649513011&ref_=nav_em__nav_desktop_sa_intl_tv_shows_0_2_20_3', 'text': 'TV Shows'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=2901953011&ref_=nav_em__nav_desktop_sa_intl_blu_ray_0_2_20_4', 'text': 'Blu-ray'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=11598814011&ref_=nav_em__nav_desktop_sa_intl_4k_ultra_hd_0_2_20_5', 'text': '4K Ultra HD'}
+{'link': 'https://www.amazon.com/best-sellers-movies-TV-DVD-Blu-ray/zgbs/movies-tv/?ref_=nav_em_MoviesHP_H1_BestSellers_0_2_20_6', 'text': 'Best Sellers'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=2921749011&ref_=nav_em__nav_desktop_sa_intl_todays_deals_0_2_20_7', 'text': "Today's Deals"}
+{'link': 'https://www.amazon.com/gp/browse.html?node=2921748011&ref_=nav_em__nav_desktop_sa_intl_new_releases_0_2_20_8', 'text': 'New Releases'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=7353051011&ref_=nav_em__nav_desktop_sa_intl_pre_orders_0_2_20_9', 'text': 'Pre-orders'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=2650365011&ref_=nav_em__nav_desktop_sa_intl_kids_and_family_0_2_20_10', 'text': 'Kids & Family'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=2858778011&ref_=nav_em__nav_desktop_sa_intl_prime_video_0_2_20_11', 'text': 'Prime Video'}
+{'link': 'https://www.amazon.com/s?bbn=16225013011&rh=i%3Aspecialty-aps%2Cn%3A%2116225013011%2Cn%3A2975312011&ref_=nav_em__nav_desktop_sa_intl_dogs_0_2_21_2', 'text': 'Dogs'}
+{'link': 'https://www.amazon.com/s?bbn=16225013011&rh=i%3Aspecialty-aps%2Cn%3A%2116225013011%2Cn%3A2975241011&ref_=nav_em__nav_desktop_sa_intl_cats_0_2_21_3', 'text': 'Cats'}
+{'link': 'https://www.amazon.com/s?bbn=16225013011&rh=i%3Aspecialty-aps%2Cn%3A%2116225013011%2Cn%3A2975446011&ref_=nav_em__nav_desktop_sa_intl_fish_and_acquatic_pets_0_2_21_4', 'text': 'Fish & Aquatic Pets'}
+{'link': 'https://www.amazon.com/s?bbn=16225013011&rh=i%3Aspecialty-aps%2Cn%3A%2116225013011%2Cn%3A2975221011&ref_=nav_em__nav_desktop_sa_intl_birds_0_2_21_5', 'text': 'Birds'}
+{'link': 'https://www.amazon.com/s?bbn=16225013011&rh=i%3Aspecialty-aps%2Cn%3A%2116225013011%2Cn%3A2975481011&ref_=nav_em__nav_desktop_sa_intl_horses_0_2_21_6', 'text': 'Horses'}
+{'link': 'https://www.amazon.com/s?bbn=16225013011&rh=i%3Aspecialty-aps%2Cn%3A%2116225013011%2Cn%3A2975504011&ref_=nav_em__nav_desktop_sa_intl_reptiles_and_amphibians_0_2_21_7', 'text': 'Reptiles & Amphibians'}
+{'link': 'https://www.amazon.com/s?bbn=16225013011&rh=i%3Aspecialty-aps%2Cn%3A%2116225013011%2Cn%3A2975520011&ref_=nav_em__nav_desktop_sa_intl_small_animals_0_2_21_8', 'text': 'Small Animals'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A5223260011&ref_=nav_em__nav_desktop_sa_intl_accounting_and_finance_0_2_22_2', 'text': 'Accounting & Finance'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229677&ref_=nav_em__nav_desktop_sa_intl_antivirus_security_0_2_22_3', 'text': 'Antivirus & Security'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229535&ref_=nav_em__nav_desktop_sa_intl_business_office_0_2_22_4', 'text': 'Business & Office'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229548&ref_=nav_em__nav_desktop_sa_intl_childrens_0_2_22_5', 'text': "Children's"}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229614&ref_=nav_em__nav_desktop_sa_intl_design_illustration_0_2_22_6', 'text': 'Design & Illustration'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A1233514011&ref_=nav_em__nav_desktop_sa_intl_digital_software_0_2_22_7', 'text': 'Digital Software'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229563&ref_=nav_em__nav_desktop_sa_intl_education_reference_0_2_22_8', 'text': 'Education & Reference'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A1294826011&ref_=nav_em__nav_desktop_sa_intl_games_0_2_22_9', 'text': 'Games'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229624&ref_=nav_em__nav_desktop_sa_intl_lifestyle_hobbies_0_2_22_10', 'text': 'Lifestyle & Hobbies'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A497022&ref_=nav_em__nav_desktop_sa_intl_music_0_2_22_11', 'text': 'Music'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229637&ref_=nav_em__nav_desktop_sa_intl_networking_services_0_2_22_12', 'text': 'Networking & Servers'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229653&ref_=nav_em__nav_desktop_sa_intl_operating_systems_0_2_22_13', 'text': 'Operating Systems'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229621&ref_=nav_em__nav_desktop_sa_intl_photography_0_2_22_14', 'text': 'Photography'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A5223262011&ref_=nav_em__nav_desktop_sa_intl_programming_web_development_0_2_22_15', 'text': 'Programming & Web Development'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229545&ref_=nav_em__nav_desktop_sa_intl_tax_preparation_0_2_22_16', 'text': 'Tax Preparation'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A229672&ref_=nav_em__nav_desktop_sa_intl_utilities_0_2_22_17', 'text': 'Utilities'}
+{'link': 'https://www.amazon.com/s?bbn=16225008011&rh=i%3Aspecialty-aps%2Cn%3A%2116225008011%2Cn%3A290542&ref_=nav_em__nav_desktop_sa_intl_video_0_2_22_18', 'text': 'Video'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225014011&ref_=nav_em__nav_desktop_sa_intl_sports_and_outdoors_0_2_23_2', 'text': 'Sports and Outdoors'}
+{'link': 'https://www.amazon.com/s?bbn=16225014011&rh=i%3Aspecialty-aps%2Cn%3A%2116225014011%2Cn%3A706814011&ref_=nav_em__nav_desktop_sa_intl_outdoor_recreations_0_2_23_3', 'text': 'Outdoor Recreation'}
+{'link': 'https://www.amazon.com/s?bbn=16225014011&rh=i%3Aspecialty-aps%2Cn%3A%2116225014011%2Cn%3A10971181011&ref_=nav_em__nav_desktop_sa_intl_sports_fitness_0_2_23_4', 'text': 'Sports & Fitness'}
+{'link': 'https://www.amazon.com/s?bbn=16225014011&rh=i%3Aspecialty-aps%2Cn%3A%2116225014011%2Cn%3A3386071&ref_=nav_em__nav_desktop_sa_intl_fan_shop_0_2_23_5', 'text': 'Fan Shop'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=256643011&ref_=nav_em__nav_desktop_sa_intl_tools_and_home_improvement_0_2_24_2', 'text': 'Tools & Home Improvement'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A13397451&ref_=nav_em__nav_desktop_sa_intl_appliances_0_2_24_3', 'text': 'Appliances'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A551240&ref_=nav_em__nav_desktop_sa_intl_building_supplies_0_2_24_4', 'text': 'Building Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A495266&ref_=nav_em__nav_desktop_sa_intl_electrical_0_2_24_5', 'text': 'Electrical'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A511228&ref_=nav_em__nav_desktop_sa_intl_hardware_0_2_24_6', 'text': 'Hardware'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A3754161&ref_=nav_em__nav_desktop_sa_intl_kitchen_bath_fixtures_0_2_24_7', 'text': 'Kitchen & Bath Fixtures'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A322525011&ref_=nav_em__nav_desktop_sa_intl_light_bulbs_0_2_24_8', 'text': 'Light Bulbs'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A495224&ref_=nav_em__nav_desktop_sa_intl_lighting_ceilling_fans_0_2_24_9', 'text': 'Lighting & Ceiling Fans'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A553244&ref_=nav_em__nav_desktop_sa_intl_measuring_layout_tools_0_2_24_10', 'text': 'Measuring & Layout Tools'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A228899&ref_=nav_em__nav_desktop_sa_intl_painting_supplies_wall_treatment_0_2_24_11', 'text': 'Painting Supplies & Wall Treatments'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A328182011&ref_=nav_em__nav_desktop_sa_intl_power_hand_tools_0_2_24_12', 'text': 'Power & Hand Tools'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A13749581&ref_=nav_em__nav_desktop_sa_intl_rough_plumbing_0_2_24_13', 'text': 'Rough Plumbing'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A3180231&ref_=nav_em__nav_desktop_sa_intl_safety_security_0_2_24_14', 'text': 'Safety & Security'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A13400631&ref_=nav_em__nav_desktop_sa_intl_storage_home_organization_0_2_24_15', 'text': 'Storage & Home Organization'}
+{'link': 'https://www.amazon.com/s?bbn=256643011&rh=i%3Aspecialty-aps%2Cn%3A256643011%2Cn%3A%21468240%2Cn%3A8106310011&ref_=nav_em__nav_desktop_sa_intl_welding_soldering_0_2_24_16', 'text': 'Welding & Soldering'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A165993011&ref_=nav_em__nav_desktop_sa_intl_action_figures_statues_0_2_25_2', 'text': 'Action Figures & Statues'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166057011&ref_=nav_em__nav_desktop_sa_intl_arts_craft_0_2_25_3', 'text': 'Arts & Crafts'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A196601011&ref_=nav_em__nav_desktop_sa_intl_baby_toddler_toys_0_2_25_4', 'text': 'Baby & Toddler Toys'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166092011&ref_=nav_em__nav_desktop_sa_intl_building_toys_0_2_25_5', 'text': 'Building Toys'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166118011&ref_=nav_em__nav_desktop_sa_intl_dolls_accessories_0_2_25_6', 'text': 'Dolls & Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166316011&ref_=nav_em__nav_desktop_sa_intl_dress_up_pretend_play_0_2_25_7', 'text': 'Dress Up & Pretend Play'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166164011&ref_=nav_em__nav_desktop_sa_intl_kids_electronics_0_2_25_8', 'text': "Kids' Electronics"}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166220011&ref_=nav_em__nav_desktop_sa_intl_games_0_2_25_9', 'text': 'Games'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A3226142011&ref_=nav_em__nav_desktop_sa_intl_grown_up_toys_0_2_25_10', 'text': 'Grown-Up Toys'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A276729011&ref_=nav_em__nav_desktop_sa_intl_hobbies_0_2_25_11', 'text': 'Hobbies'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166210011&ref_=nav_em__nav_desktop_sa_intl_kids_furniture_decor_storage_0_2_25_12', 'text': "Kids' Furniture, Décor & Storage"}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166269011&ref_=nav_em__nav_desktop_sa_intl_learning_education_0_2_25_13', 'text': 'Learning & Education'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166027011&ref_=nav_em__nav_desktop_sa_intl_novelty_gag_toys_0_2_25_14', 'text': 'Novelty & Gag Toys'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A1266203011&ref_=nav_em__nav_desktop_sa_intl_party_supplies_0_2_25_15', 'text': 'Party Supplies'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166333011&ref_=nav_em__nav_desktop_sa_intl_novelty_gag_toys_0_2_25_16', 'text': 'Puppets'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166359011&ref_=nav_em__nav_desktop_sa_intl_puzzles_0_2_25_17', 'text': 'Puzzles'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166420011&ref_=nav_em__nav_desktop_sa_intl_sports_outdoor_play_0_2_25_18', 'text': 'Sports & Outdoor Play'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166461011&ref_=nav_em__nav_desktop_sa_intl_stuffed_animals_plush_toys_0_2_25_19', 'text': 'Stuffed Animals & Plush Toys'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A166508011&ref_=nav_em__nav_desktop_sa_intl_toy_remote_control_play_vehicles_0_2_25_20', 'text': 'Toy Remote Control & Play Vehicles'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A256994011&ref_=nav_em__nav_desktop_sa_intl_tricycles_scooters_wagons_0_2_25_21', 'text': 'Tricycles, Scooters & Wagons'}
+{'link': 'https://www.amazon.com/s?bbn=16225015011&rh=i%3Aspecialty-aps%2Cn%3A%2116225015011%2Cn%3A8794716011&ref_=nav_em__nav_desktop_sa_intl_video_games_0_2_25_22', 'text': 'Video Games'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=16225016011&ref_=nav_em__nav_desktop_sa_intl_video_games_0_2_26_2', 'text': 'Video Games'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A6427814011&ref_=nav_em__nav_desktop_sa_intl_playstation4_0_2_26_3', 'text': 'PlayStation 4'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A14210751&ref_=nav_em__nav_desktop_sa_intl_playstation3_0_2_26_4', 'text': 'PlayStation 3'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A6469269011&ref_=nav_em__nav_desktop_sa_intl_xbox_one_0_2_26_5', 'text': 'Xbox One'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A14220161&ref_=nav_em__nav_desktop_sa_intl_xbox_360_0_2_26_6', 'text': 'Xbox 360'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A16227128011&ref_=nav_em__nav_desktop_sa_intl_nintendo_switch_0_2_26_7', 'text': 'Nintendo Switch'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A3075112011&ref_=nav_em__nav_desktop_sa_intl_wii_u_0_2_26_8', 'text': 'Wii U'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A14218901&ref_=nav_em__nav_desktop_sa_intl_wii_0_2_26_9', 'text': 'Wii'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A229575&ref_=nav_em__nav_desktop_sa_intl_pc_0_2_26_10', 'text': 'PC'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A229647&ref_=nav_em__nav_desktop_sa_intl_mac_0_2_26_11', 'text': 'Mac'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A2622269011&ref_=nav_em__nav_desktop_sa_intl_nintendo_3ds_2ds_0_2_26_12', 'text': 'Nintendo 3DS & 2DS'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A11075831&ref_=nav_em__nav_desktop_sa_intl_nintendo_ds_0_2_26_13', 'text': 'Nintendo DS'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A3010556011&ref_=nav_em__nav_desktop_sa_intl_playstation_vita_0_2_26_14', 'text': 'PlayStation Vita'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A11075221&ref_=nav_em__nav_desktop_sa_intl_sony_psp_0_2_26_15', 'text': 'Sony PSP'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A294940&ref_=nav_em__nav_desktop_sa_intl_retro_gaming_microconsoles_0_2_26_16', 'text': 'Retro Gaming & Microconsoles'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A471304&ref_=nav_em__nav_desktop_sa_intl_accessories_0_2_26_17', 'text': 'Accessories'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A979455011&ref_=nav_em__nav_desktop_sa_intl_digital_games_0_2_26_18', 'text': 'Digital Games'}
+{'link': 'https://www.amazon.com/s?bbn=16225016011&rh=i%3Aspecialty-aps%2Cn%3A%2116225016011%2Cn%3A8400376011&ref_=nav_em__nav_desktop_sa_intl_kids_family_0_2_26_19', 'text': 'Kids & Family'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=2238192011&ref_=nav_em_hmc_gc_allgc_0_2_27_2', 'text': 'All gift cards'}
+{'link': 'https://www.amazon.com/s?bbn=2238192011&page=1&rh=n%3A2238192011%2Cp_n_format_browse-bin%3A2740964011%2Cp_89%3AAmazon&ref_=nav_em_hmc_gc_egc_0_2_27_3', 'text': 'eGift cards'}
+{'link': 'https://www.amazon.com/s?bbn=2238192011&page=1&rh=n%3A2238192011%2Cp_89%3AAmazon%2Cp_n_format_browse-bin%3A2740967011&ref_=nav_em_hmc_gc_pgc_C_0_2_27_4', 'text': 'Gift cards by mail'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=2864196011&ref_=nav_em_hmc_gc_bgc_0_2_27_5', 'text': 'Specialty gift cards'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=14583169011&ref_=nav_em_hmc_gc_amazoncash_0_2_27_6', 'text': 'Amazon Cash'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=15243182011&ref_=nav_em_hmc_gc_incentives_0_2_27_7', 'text': 'For Businesses'}
+{'link': 'https://www.amazon.com/gc/redeem?ref_=nav_em_hmc_gc_redeem_0_2_27_9', 'text': 'Redeem a gift card'}
+{'link': 'https://www.amazon.com/gp/css/gc/balance?ref_=nav_em_hmc_gc_viewbalance_0_2_27_10', 'text': 'View Your Balance'}
+{'link': 'https://www.amazon.com/asv/reload/order?ref_=nav_em_hmc_gc_asv_0_2_27_11', 'text': 'Reload Your Balance'}
+{'link': 'https://www.amazon.com/live?ref_=nav_em_sd_al_dest_0_2_28_2', 'text': 'Live'}
+{'link': 'https://www.amazon.com/live?ref_=nav_em_sd_al_dest#recently_0_2_28_3', 'text': 'Recently Live'}
+{'link': 'https://www.amazon.com/gp/help/customer/display.html?nodeId=201910800&ref_=nav_em_full_store_dir_AG_shipping_0_2_29_2', 'text': 'Where we ship'}
+{'link': 'https://www.amazon.com/gp/browse.html?node=17416544011&ref_=nav_em_full_store_dir_VisitAg_help_0_2_29_3', 'text': 'Visit Amazon Global'}
